@@ -1,4 +1,4 @@
-dependencies: /Users/arnavgupta/Gram/JUCEprojects/tftest/tftest/main.cpp \
+dependencies: /Users/arnavgupta/Gram/Legato/tftest/tftest/main.cpp \
   /usr/local/include/fdeep/fdeep.hpp /usr/local/include/fdeep/common.hpp \
   /usr/local/include/Eigen/Core \
   /usr/local/include/Eigen/src/Core/util/DisableStupidWarnings.h \
