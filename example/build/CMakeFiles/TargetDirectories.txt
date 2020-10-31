@@ -1,3 +1,0 @@
-/home/ubuntu/tensorflow_cc/example/build/CMakeFiles/rebuild_cache.dir
-/home/ubuntu/tensorflow_cc/example/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/tensorflow_cc/example/build/CMakeFiles/example.dir
