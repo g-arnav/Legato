@@ -1,3 +1,4 @@
 *.a
 .idea
 frugally_deep
+.DS_Store
