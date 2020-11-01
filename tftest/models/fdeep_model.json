@@ -16,7 +16,7 @@
           "config": {
             "batch_input_shape": [
               null,
-              4
+              1
             ],
             "dtype": "float32",
             "name": "input_1",
@@ -48,7 +48,7 @@
             "kernel_regularizer": null,
             "name": "dense",
             "trainable": true,
-            "units": 5,
+            "units": 10,
             "use_bias": true
           },
           "inbound_nodes": [
@@ -112,11 +112,11 @@
     },
     "keras_version": "2.4.0"
   },
-  "hash": "e8be9d407917ddafe5e2270a07fc856b9f547c709ddbd659d962bbd753364cf4",
+  "hash": "d1c5e2b418d8e9a0f2a3bb87167414a545883c56b674f1383fc35a934eaa1d9f",
   "image_data_format": "channels_last",
   "input_shapes": [
     [
-      4
+      1
     ]
   ],
   "output_shapes": [
@@ -124,45 +124,21 @@
       3
     ]
   ],
-  "tests": [
-    {
-      "inputs": [
-        {
-          "shape": [
-            4
-          ],
-          "values": [
-            "R/maP16fk7+2eqY+LCsAPw=="
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "shape": [
-            3
-          ],
-          "values": [
-            "FFoiPlz75D6Z18k+"
-          ]
-        }
-      ]
-    }
-  ],
   "trainable_params": {
     "dense": {
       "bias": [
-        "+fUDvMG51LoyrAO85FcCvAAAAAA="
+        "TJ19P17n5L/s49m/Oni5v9r2qz8AAAAAAAAAAMtiCkAAAAAAAAAAAA=="
       ],
       "weights": [
-        "w5S2vnifpb1nUzo/SymBvkP07b6oCAm/8FPzPT3YED9qEsY+ALTCO9d2+z75Q0i/kN3lPv2SFz32li6/0sNHPyRKCz8G3T0/ADBnPlj2wD4="
+        "vXuZPi5MA0Du49k/I5T3P74KhL5g/S++pZ3evnXdar69kdm+j4Yjvw=="
       ]
     },
     "dense_1": {
       "bias": [
-        "flkEPGiCBryNQAS8"
+        "Lq1DPxwoqr46n3u/"
       ],
       "weights": [
-        "931av2OrEj936ka+bk+cvlu7TD9kNtQ+claDvt7ccb5U6LI+BCtwPjT3UL+B+AM/+qT7PvYwO785Yxs/"
+        "JywcQGgrbL8s2ay9Bjfjv9kh8z1ZPQFAD7kHwIZ74r7d9Z4/l4oYwERWt745hrQ/wsIaQFTIXb9GZC+/SLoMPsL/0b6ARvw+5HXevkywHj8QD5Y+lu08QLxdsj0r3cY+SXKhviie5j6OIBG/gHBjvLM9hr6EYw8+"
       ]
     }
   }
